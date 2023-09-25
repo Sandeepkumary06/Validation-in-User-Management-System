@@ -14,8 +14,6 @@
 	+ Update any/all user's info via his ID
 	+ Delete a particular user from the system-geekster
 
-- Source code is available at: [GITHUB](https://github.com/Pankaj-dev98/user-management-system-geekster.git)
-
 - Database design: This project only stores user's data as an instance of a linked list (of users) in memory. This list is initialzied at startup as it's a dependency of the controller.
 
 ## Data structure used
