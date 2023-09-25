@@ -1,8 +1,5 @@
 # USER MANAGEMENT SYSTEM
 
-**Name: Pankaj Kalra, Batch: FS-11**
-[GITHUB](https://github.com/Pankaj-dev98/user-management-system-geekster.git)
-
 ## Frameworks and languages used
 - Source code: Java 20
 - Base framework: SpringBoot with inbuilt TomCat server
